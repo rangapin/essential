@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="31235b1a-e219-41b0-a3af-03b050d6e693" name="namecheapFPT" url="http://neverfreedivealone.com">
+        <fileTransfer rootFolder="/www.neverfreedivealone.com" host="neverfreedivealone.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
